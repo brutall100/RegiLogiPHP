@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Dependencies & build output
+node_modules/
+vendor/
+
+# Local databases
+*.sqlite
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
